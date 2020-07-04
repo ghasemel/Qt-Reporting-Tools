@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="https://github.com/mmickey/reportpp"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="https://github.com/mmickey/reportpp ../../xml-schema/reportpp.xsd"
+        pageFormat="a5"
+        marginTop="15"
+        marginBottom="10"
+        marginLeft="5"
+        marginRight="5">
+  <dataPage>
+    <block/>
+  </dataPage>
+</report>

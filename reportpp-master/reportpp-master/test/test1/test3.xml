@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report xmlns="https://github.com/mmickey/reportpp"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="https://github.com/mmickey/reportpp ../../xml-schema/reportpp.xsd"
+        marginTop="15"
+        marginBottom="10"
+        marginLeft="5"
+        marginRight="5">
+  <frontPage>
+    <block>
+      <text x="15" y="15" fontName="Helvetica" fontSize="20" fontStyle="italic">Cover Page</text>
+      <shape type="rectangle" x="10" y="10" width="45" height="50"/>
+      <text x="15" y="45" fontName="Helvetica" fontSize="5" fontStyle="bold">by mickey</text>
+    </block>
+  </frontPage>
+
+  <dataPage>
+    <block/>
+  </dataPage>
+</report>
